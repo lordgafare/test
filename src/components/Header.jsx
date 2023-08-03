@@ -14,6 +14,7 @@ function HeaderViews() {
           <Nav className="me-auto">
             <Nav.Link href="/"><FontAwesomeIcon icon={faHouse} />&nbsp;Home</Nav.Link>
             <Nav.Link href="/content">Content</Nav.Link>
+            <Nav.Link href="/table">Table</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
